@@ -1,3 +1,3 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yutaforsayu&layout=compact&theme=radical)
+![Top Langs](https://ghstats.tineo.my.id/api/top-langs/?username=YutaForSayu&layout=compact&theme=radical&hide=html,css&langs_count=8)
 
 
